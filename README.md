@@ -1,0 +1,2 @@
+# VIQASYS-PYTHON-INTERSHIP
+Assignment first
